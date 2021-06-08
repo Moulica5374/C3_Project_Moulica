@@ -29,7 +29,7 @@ public class Restaurant {
     }
 
     public LocalTime getCurrentTime(){ return  LocalTime.now(); }
-
+// 2nd Part//
     public List<Item> getMenu() {
         return this.menu;
 
